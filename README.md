@@ -6,8 +6,14 @@
 문제들을 참고하였습니다.
 
 코딩 테스트에 많이 나오는 순서대로 
-`DFS-BFS`, `문자열 조작`, `단순 구현`, `완전 탐색`, `해시`, `DP` 
+`DFS-BFS`, `문자열 문제`, `단순 구현`, `완전 탐색`, `해시`, `DP` 
 등의 문제를 풉니다.
+
+## 바로가기
+
+- [DFS-BFS](https://github.com/haeseong123/codingtest/tree/master/kote/src/solution/dfs_bfs)
+- [문자열 문제](https://github.com/haeseong123/codingtest/tree/master/kote/src/solution/string_problem)
+- [정렬](https://github.com/haeseong123/codingtest/tree/master/kote/src/solution/sort)
 
 ## 사용 언어 및 개발 환경
 
