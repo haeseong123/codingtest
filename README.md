@@ -14,6 +14,7 @@
 - [DFS-BFS](https://github.com/haeseong123/codingtest/tree/master/kote/src/solution/dfs_bfs)
 - [문자열 문제](https://github.com/haeseong123/codingtest/tree/master/kote/src/solution/string_problem)
 - [정렬](https://github.com/haeseong123/codingtest/tree/master/kote/src/solution/sort)
+- [단순 구현](https://github.com/haeseong123/codingtest/tree/master/kote/src/solution/implementation)
 
 ## 사용 언어 및 개발 환경
 
